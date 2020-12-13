@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Settings = void 0;
+var DISTANCE_TO_LOOK = 20000;
+exports.Settings = {
+    count: 0,
+    distanceToLook: DISTANCE_TO_LOOK
+};
+
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImpzL2NvcmUvc2V0dGluZ3MudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7O0FBQUEsSUFBTSxnQkFBZ0IsR0FBRyxLQUFLLENBQUM7QUFFbEIsUUFBQSxRQUFRLEdBQUc7SUFDdEIsS0FBSyxFQUFFLENBQUM7SUFDUixjQUFjLEVBQUUsZ0JBQWdCO0NBQ2pDLENBQUMiLCJmaWxlIjoianMvY29yZS9zZXR0aW5ncy5qcyIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IERJU1RBTkNFX1RPX0xPT0sgPSAyMDAwMDtcblxuZXhwb3J0IGNvbnN0IFNldHRpbmdzID0ge1xuICBjb3VudDogMCxcbiAgZGlzdGFuY2VUb0xvb2s6IERJU1RBTkNFX1RPX0xPT0tcbn07XG4iXX0=
